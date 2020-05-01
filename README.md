@@ -1,13 +1,16 @@
 # Crypto Domains 可访问域名
 Accessible Domains for Major Crypto Domains - 可访问域名
 
-最近更新时间 2020年4月25日 - 持续更新
+最近更新时间 2020年5月1日 - 持续更新
 
 # Huobi 火币
 
 大陆地区访问：https://www.huobi.me/
 
 APP下载：https://www.huobi.me/zh-cn/download/#exchange
+
+海外地区访问：https://www.huobi.com/
+
 
 曾用域名：
 io域名2020年4月24日不可访问
@@ -17,6 +20,14 @@ io域名2020年4月24日不可访问
 大陆地区访问：https://www.binancezh.com/
 
 海外地区访问：https://www.binance.com/
+
+
+# Okex
+
+大陆地区访问：https://www.okex.me/
+
+海外地区访问：https://www.okex.com/
+
 
 
 # EtherScan 以太坊区块链浏览器
